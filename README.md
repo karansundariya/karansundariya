@@ -20,7 +20,7 @@
 🔨 Currently building **JobLex**, a next-gen mobile-first campus recruitment platform  
 ⚡ Solved 800+ DSA problems on LeetCode & GFG (Knight Rating: 1851)  
 🏆 Finalist in 5+ national-level hackathons  
-🌱 Learning: `LLD`, `HLD`, `Problem solving`, `Data Structures and Algorithums` 
+🌱 Learning: `LLD`, `HLD`, `Problem solving`, `DSA` 
 📢 Passionate about building **intuitive**, **student-first** tech that makes a difference
 
 ---
