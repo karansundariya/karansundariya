@@ -17,8 +17,8 @@
 💻 **Ex-SDE Intern @ Neoned71 Tech Solutions** – Qt/C++, Multithreading, SOLID  
 🔨 Currently building **JobLex**, a next-gen mobile-first campus recruitment platform  
 ⚡ Solved 800+ DSA problems on LeetCode & GFG (Knight Rating: 1851)  
-🏆 Finalist in 7+ national-level hackathons  
-🌱 Learning: `LLD`, `AI App Integration`, `TypeScript`, `System Design`  
+🏆 Finalist in 5+ national-level hackathons  
+🌱 Learning: `LLD`, `HLD`, `Problem solving`  
 📢 Passionate about building **intuitive**, **student-first** tech that makes a difference
 
 ---
@@ -87,15 +87,6 @@
 - 🚀 EYTechathon 5.0 – Top 1.16%  
 - 🧪 Smart India Hackathon (Internal) – 4th Place  
 - 💡 Solved 800+ problems on LeetCode + GFG
-
----
-
-## 👨‍🏫 Leadership
-
-- 🧠 **Lead - PyC Coding Club**, IIIT Bhagalpur  
-  – Mentored 20+ devs, led 15+ coding contests  
-  – Conducted regular DSA & tech workshops  
-  – Cultivated a strong peer-learning community
 
 ---
 
