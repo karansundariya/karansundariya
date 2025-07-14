@@ -1,6 +1,5 @@
-<!-- Typing Animation Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4FA8F7&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Karan+Sundariya+%F0%9F%91%8B;Software+Engineer+%7C+AI+Explorer+%7C+Hackathon+Finalist;Crafting+impactful+products+with+code+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4FA8F7&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Karan+Sundariya+%F0%9F%91%8B;Final+Year+CSE+Student+%7C+Ex-SDE+Intern+%7C+Full-Stack+Dev;Currently+Building+JobLex+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -14,19 +13,33 @@
 
 ## 🚀 About Me
 
-🎓 Pre-final year B.Tech CSE @ **IIIT Bhagalpur**  
-🛠️ **SDE Intern @ Neoned71** – C++, Qt, SOLID Design  
-⚡ 800+ DSA problems solved on LeetCode & GFG  
-🏆 Finalist in multiple **national-level hackathons**  
-🧠 Always learning: `LLD`, `AI`, `System Design`, `TS`  
-🌱 Open to collaborations & internship opportunities
+🎓 Final-year B.Tech CSE @ **IIIT Bhagalpur**  
+💻 **Ex-SDE Intern @ Neoned71 Tech Solutions** – Qt/C++, Multithreading, SOLID  
+🔨 Currently building **JobLex**, a next-gen mobile-first campus recruitment platform  
+⚡ Solved 800+ DSA problems on LeetCode & GFG (Knight Rating: 1851)  
+🏆 Finalist in 7+ national-level hackathons  
+🌱 Learning: `LLD`, `AI App Integration`, `TypeScript`, `System Design`  
+📢 Passionate about building **intuitive**, **student-first** tech that makes a difference
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,html,css,tailwind,mongodb,mysql,firebase,qt,git,github,figma,vscode,postman" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
@@ -36,35 +49,57 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karansundariya&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=karansundariya&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karansundariya&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansundariya&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-| Project | Description |
-|--------|-------------|
-| [**CVNirmaan-AI**](https://github.com/karansundariya/CVNirmaan-AI) | ✨ AI-powered resume builder using React, Firebase, OpenAI |
-| [**Saahitya-Hub**](https://github.com/karansundariya/Saahitya-Hub) | 📚 Literature platform w/ Google Books API, dark mode |
-| [**Ticketing Mitra**](https://github.com/karansundariya/TicketingMitra) | 🎟️ Chatbot-powered museum ticketing system |
-| **SkillUp AI** | 🚀 Built for EYTechathon – smart AI learning assistant |
+### 🧳 [JobLex](https://github.com/karansundariya/JobLex)  
+> 🚀 A mobile-first campus recruitment platform with internal/external jobs, smart alerts, gamified profiles, easy resume uploads, and email + keyword notifications — designed to simplify hiring for students and companies.
+
+---
+
+### 🌐 [Karan Devfolio](https://github.com/karansundariya/karan-devfolio) | [Live Demo](https://karan-devfolio.vercel.app)  
+> A modern, responsive portfolio built with React & Tailwind CSS. It showcases my projects, skills, and experience with dark/light mode toggle and EmailJS integration.
+
+---
+
+### 📄 [CVNirmaan_AI](https://github.com/karansundariya/CVNirmaan_AI)  
+> AI-powered platform to generate resumes & cover letters using React, Gemini API, Firebase, and TailwindCSS — delivering a seamless job application experience.
+
+---
+
+### 📚 [Saahitya-Hub](https://github.com/karansundariya/Saahitya-Hub) | [Live Demo](https://karansundariya.github.io/Saahitya-Hub/)  
+> A literary discovery platform with Google Books API, smart search, immersive book details, curated picks, and dark mode — designed for passionate readers.
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **Flipkart GRiD 6.0** – Top 1.65%  
-- 🧠 **Tata Challenge** – Semi-Finalist (Top 0.1%)  
-- 🔍 **HP Power Lab** – Top 0.1% nationwide  
-- 🛠️ **CodeKaze** – AIR 920 / 1L+  
-- 🧪 **SIH Internal** – 4th Place  
-- 🚀 **EYTechathon** – Top 1.16%  
+- 🥇 Flipkart GRiD 6.0 – Top 1.65%  
+- 🧠 Tata Imagination Challenge – National Semi-Finalist (Top 0.1%)  
+- 🛠 HP Power Lab – Top 0.1% Nationwide  
+- 🔍 CodeKaze 2024 – AIR 920 / 1L+  
+- 🚀 EYTechathon 5.0 – Top 1.16%  
+- 🧪 Smart India Hackathon (Internal) – 4th Place  
+- 💡 Solved 800+ problems on LeetCode + GFG
 
+---
 
-## 📫 Let's Connect
+## 👨‍🏫 Leadership
+
+- 🧠 **Lead - PyC Coding Club**, IIIT Bhagalpur  
+  – Mentored 20+ devs, led 15+ coding contests  
+  – Conducted regular DSA & tech workshops  
+  – Cultivated a strong peer-learning community
+
+---
+
+## 📫 Reach Out To Me
 
 - 📧 Email: karansundariya@gmail.com  
 - 🌐 Portfolio: [karansundariya.github.io/portfolio](https://karansundariya.github.io/portfolio)  
@@ -72,7 +107,7 @@
 
 ---
 
-## 🔥 Fun Quote
+## 🔥 Quote I Live By
 
 > “The best way to predict the future is to invent it.” – Alan Kay
 
