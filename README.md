@@ -49,12 +49,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karansundariya&theme=tokyonight" />
+  <img width="360" src="https://github-readme-streak-stats.herokuapp.com/?user=karansundariya&theme=tokyonight" />
+  <img width="360" src="https://github-readme-stats.vercel.app/api?username=karansundariya&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=karansundariya&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansundariya&layout=compact&theme=tokyonight" />
+  <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansundariya&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
