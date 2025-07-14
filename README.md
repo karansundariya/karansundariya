@@ -3,12 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4FA8F7&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Karan+Sundariya+%F0%9F%91%8B;%EF%BB%BFFinal+Year+CSE+Student;Ex-SDE+Intern+%7C+Full-Stack+Dev;Currently+Building+JobLex+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-
-
-
-
 </h1>
-
 <p align="center">
   <a href="mailto:karansundariya@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/karansundariya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -65,7 +60,7 @@
 
 ## 🚀 Projects
 
-### 🧳 [JobLex](https://github.com/karansundariya/JobLex)  
+### 🧳 [JobLex](https://github.com/karansundariya/JobLex)   | [Live Demo](https://joblex-vo9q.onrender.com/)  
 > 🚀 A mobile-first campus recruitment platform with internal/external jobs, smart alerts, gamified profiles, easy resume uploads, and email + keyword notifications — designed to simplify hiring for students and companies.
 
 ---
@@ -89,11 +84,12 @@
 
 - 🥇 Flipkart GRiD 6.0 – Top 1.65%  
 - 🧠 Tata Imagination Challenge – National Semi-Finalist (Top 0.1%)  
-- 🛠 HP Power Lab – Top 0.1% Nationwide  
+- 🛠 HP Power Lab – Top 0.1% Nationwide (Natinal SemiFinalist)
 - 🔍 CodeKaze 2024 – AIR 920 / 1L+  
 - 🚀 EYTechathon 5.0 – Top 1.16%  
 - 🧪 Smart India Hackathon (Internal) – 4th Place  
 - 💡 Solved 800+ problems on LeetCode + GFG
+- 📫 HP Power Lab 2024 Natioanl QuarterFinals (180 out of 1.3 Lakh)
 
 ---
 
@@ -103,7 +99,6 @@
 - 🌐 Portfolio: [karansundariya.github.io/portfolio](https://karansundariya.github.io/portfolio)  
 - 🔗 LinkedIn: [linkedin.com/in/karansundariya](https://linkedin.com/in/karansundariya)
 
----
 
 ## 🔥 Quote I Live By
 
