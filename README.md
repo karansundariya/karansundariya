@@ -86,13 +86,12 @@
 ## 🏆 Achievements
 
 - 🥇 Flipkart GRiD 6.0 – Top 1.65%  
-- 🧠 Tata Imagination Challenge – National Semi-Finalist (Top 0.1%)  
+- 🧠 Tata Imagination Challenge – National Semi-Finalist (Top 0.1%) (180 out of 1.3 Lakh)  
 - 🛠 HP Power Lab – Top 0.1% Nationwide (Natinal SemiFinalist)
 - 🔍 CodeKaze 2024 – AIR 920 / 1L+  
 - 🚀 EYTechathon 5.0 – Top 1.16%  
 - 🧪 Smart India Hackathon (Internal) – 4th Place  
 - 💡 Solved 800+ problems on LeetCode + GFG
-- 📫 HP Power Lab 2024 Natioanl QuarterFinals (180 out of 1.3 Lakh)
 
 ---
 
