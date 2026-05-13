@@ -1,6 +1,6 @@
 <h1 align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4FA8F7&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Karan+Sundariya+%F0%9F%91%8B;%EF%BB%BFFinal+Year+CSE+Student;Ex-SDE+Intern+%7C+Full-Stack+Dev;Currently+Building+JobLex+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4FA8F7&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Karan+Sundariya+%F0%9F%91%8B;%EF%BB%BFFinal+Year+CSE+Student+IIIT+Bgp;SDE+Intern+@Evernorth+%7C+Full-Stack+Dev;Currently+Building+JobLex+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 </h1>
@@ -16,6 +16,7 @@
 ## 🚀 About Me
 
 🎓 Final-year B.Tech CSE @ **IIIT Bhagalpur**  
+💻 **SDE Intern @ Evernorth(The Cigna Group)** - Java/springBoot , Aws , Python , Kafka , Redis , RESTFul API  
 💻 **Ex-SDE Intern @ Neoned71 Tech Solutions** – Qt/C++, Multithreading, SOLID  
 🔨 Currently building **JobLex**, a next-gen mobile-first campus recruitment platform  
 ⚡ Solved 800+ DSA problems on LeetCode & GFG (Knight Rating: 1851)  
@@ -29,6 +30,16 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Boto3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
