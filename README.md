@@ -82,7 +82,12 @@
 
 ## 🚀 Projects
 
-### 🧳 [JobLex](https://github.com/karansundariya/JobLex)   | [Live Demo](https://joblex-vo9q.onrender.com/)  
+### 🚖 [Uber-Microservices](https://github.com/karansundariya/Uber-Microservices)
+> Scalable ride-booking backend inspired by Uber, built using Java, Spring Boot, Microservices, Kafka, Redis, API Gateway, Service Discovery, and Docker. Designed with event-driven architecture, authentication, real-time communication, and distributed system principles.
+
+---
+
+### 🧳 [JobLex](https://github.com/karansundariya/JobLex) | [Live Demo](https://joblex-vo9q.onrender.com/)  
 > 🚀 A mobile-first campus recruitment platform with internal/external jobs, smart alerts, gamified profiles, easy resume uploads, and email + keyword notifications — designed to simplify hiring for students and companies.
 
 ---
