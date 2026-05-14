@@ -15,14 +15,22 @@
 
 ## 🚀 About Me
 
-🎓 Final-year B.Tech CSE @ **IIIT Bhagalpur**  
-💻 **SDE Intern @ Evernorth(The Cigna Group)** - Java/springBoot , Aws , Python , Kafka , Redis , RESTFul API  
-💻 **Ex-SDE Intern @ Neoned71 Tech Solutions** – Qt/C++, Multithreading, SOLID  
-🔨 Currently building **JobLex**, a next-gen mobile-first campus recruitment platform  
-⚡ Solved 800+ DSA problems on LeetCode & GFG (Knight Rating: 1851)  
-🏆 Finalist in 5+ national-level hackathons  
-🌱 Learning: `LLD`, `HLD`, `Problem solving`, `DSA` 
-📢 Passionate about building **intuitive**, **student-first** tech that makes a difference
+🎓 Final-year B.Tech CSE student at **IIIT Bhagalpur**
+
+💻 **SDE Intern @ Evernorth (The Cigna Group)**  
+&nbsp;&nbsp;&nbsp;&nbsp;Java • Spring Boot • AWS • Python (Boto3) • Terraform • CI/CD • Jenkins • Kafka • RESTful APIs
+
+💻 **Ex-SDE Intern @ Neoned71 Tech Solutions**  
+&nbsp;&nbsp;&nbsp;&nbsp;Qt/C++ • Multithreading • SOLID Principles
+
+⚡ Solved **800+ DSA problems** across LeetCode & GFG  
+🏆 **LeetCode Knight** (1851 Rating)  
+🏆 Finalist in **5+ national-level hackathons**
+
+🌱 Currently learning: `LLD` • `HLD` • `Advanced Problem Solving` • `System Design`
+
+📢 Passionate about building scalable, intuitive, and student-first products that create real impact
+
 
 ---
 
