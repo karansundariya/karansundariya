@@ -65,16 +65,18 @@
 
 ---
 
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karansundariya&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karansundariya&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs&card_width=320" width="320"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karansundariya&theme=tokyonight&card_width=320" width="320"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=karansundariya&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansundariya&layout=compact&theme=tokyonight&langs_count=6&card_width=500" width="500"/>
-</p>
 
 
 
