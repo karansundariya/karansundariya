@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-🎓 Final-year B.Tech CSE student at **IIIT Bhagalpur**
+🎓 Final-year 2026 Batch B.Tech CSE student at **IIIT Bhagalpur**
 
 💻 **SDE Intern @ Evernorth (The Cigna Group)**  
 &nbsp;&nbsp;&nbsp;&nbsp;Java • Spring Boot • AWS • Python (Boto3) • Terraform • CI/CD • Jenkins • Kafka • RESTful APIs
